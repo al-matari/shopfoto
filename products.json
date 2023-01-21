@@ -1,0 +1,77 @@
+{
+    "_embedded": {
+        "products": [
+            {
+                "id": 2,
+                "name": "t76AjTEFhojXermvAm",
+                "description": null,
+                "price": 2363,
+                "promotion": false,
+                "selected": true,
+                "available": false,
+                "imgURL": "assets/img/product-1.jpeg",
+                "quantity": 1,
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/products/2"
+                    },
+                    "product": {
+                        "href": "http://localhost:8080/products/2"
+                    },
+                    "category": {
+                        "href": "http://localhost:8080/products/2/category"
+                    }
+                }
+            },
+            {
+                "id": 3,
+                "name": "ehlPpZ84KRBRxGf4ah",
+                "description": null,
+                "price": 6639,
+                "promotion": false,
+                "selected": true,
+                "available": false,
+                "imgURL": "assets/img/product-1.jpeg",
+                "quantity": 1,
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/products/3"
+                    },
+                    "product": {
+                        "href": "http://localhost:8080/products/3"
+                    },
+                    "category": {
+                        "href": "http://localhost:8080/products/3/category"
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "name": "UNjLvu7mNcR3ZeaFcm",
+                "description": null,
+                "price": 5013,
+                "promotion": true,
+                "selected": true,
+                "available": true,
+                "imgURL": "assets/img/product-1.jpeg",
+                "quantity": 1,
+                "_links": {
+                    "self": {
+                        "href": "http://localhost:8080/products/4"
+                    },
+                    "product": {
+                        "href": "http://localhost:8080/products/4"
+                    },
+                    "category": {
+                        "href": "http://localhost:8080/products/4/category"
+                    }
+                }
+            }
+        ]
+    },
+    "_links": {
+        "self": {
+            "href": "http://localhost:8080/products/search/selectedProducts"
+        }
+    }
+}
