@@ -3,7 +3,7 @@
         "products": [
             {
                 "id": 2,
-                "name": "t76AjTEFhojXermvAm",
+                "name": "dress1",
                 "description": null,
                 "price": 10,
                 "promotion": false,
@@ -25,7 +25,7 @@
             },
             {
                 "id": 3,
-                "name": "ehlPpZ84KRBRxGf4ah",
+                "name": "dress2",
                 "description": null,
                 "price": 20,
                 "promotion": false,
@@ -47,7 +47,7 @@
             },
             {
                 "id": 4,
-                "name": "UNjLvu7mNcR3ZeaFcm",
+                "name": "dress3",
                 "description": null,
                 "price": 5,
                 "promotion": true,
